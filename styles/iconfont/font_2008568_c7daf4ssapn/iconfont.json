@@ -1,0 +1,23 @@
+{
+  "id": "2008568",
+  "name": "wph",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11372658",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e8ae",
+      "unicode_decimal": 59566
+    },
+    {
+      "icon_id": "11372741",
+      "name": "娱乐宝",
+      "font_class": "yulebao",
+      "unicode": "e8c2",
+      "unicode_decimal": 59586
+    }
+  ]
+}

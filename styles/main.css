@@ -1,0 +1,22 @@
+/* 公共样式 */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+header,nav,article,section,aside,footer,address,img{
+    /* 设置为块级展示 */
+    display: block;
+}
+img{
+    /* 设置 图片没有自带的边框，比如在a标签里面的时候*/
+    border: none;
+}
+li{
+    /* 把列表现的样式去掉 */
+    list-style: none;
+}
